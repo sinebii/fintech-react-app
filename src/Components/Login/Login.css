@@ -66,8 +66,9 @@
 .login_footer p{
     display: flex;
     font-size: 20px;
-    width: 15%;
+    width: 20%;
     justify-content: space-between;
+    padding-top: 20px;
 }
 
 .form_control{
@@ -119,4 +120,9 @@ button{
     color: #218c74;
     cursor: pointer;
 
+}
+
+.loader{
+    width: 100%;
+    display: flex;
 }
